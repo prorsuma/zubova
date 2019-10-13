@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i&subset=cyrillic&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap);
 
 
 
@@ -8,21 +8,21 @@ body {
   font-family: IBM Plex Sans;
 }
 .display-1 {
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 3.8rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.08rem;
 }
 .display-2 {
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
@@ -30,14 +30,14 @@ body {
   font-weight: 400;
 }
 .display-5 {
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1.5rem;
 }
 .display-5 > .mbr-iconfont {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1.2rem;
 }
 .display-7 > .mbr-iconfont {
@@ -542,7 +542,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1rem;
 }
 .form-control > .mbr-iconfont {
@@ -1013,8 +1013,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rEOh1byIEE {
-  padding-top: 165px;
-  padding-bottom: 165px;
+  padding-top: 225px;
+  padding-bottom: 225px;
   background-image: url("../../../assets/images/main-1-2000x1084.jpeg");
 }
 .cid-rlf51fG6jI {
